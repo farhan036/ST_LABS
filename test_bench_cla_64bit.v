@@ -1,5 +1,4 @@
-// Code your testbench here
-// or browse Examples
+
 `timescale 1ns / 1ps
 module tb_cla64bit;
     // Inputs
